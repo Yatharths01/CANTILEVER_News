@@ -6,6 +6,6 @@ This is my 2nd project for Cantilever Internship july '24, It is a news platform
 
   2. cd CANTILEVER_News
   
-  3.  npm instal
+  3.  npm install
   
   4.  npm start
